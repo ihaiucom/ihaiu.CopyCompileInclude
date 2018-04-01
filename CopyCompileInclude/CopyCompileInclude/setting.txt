@@ -1,0 +1,5 @@
+csproj=/Users/zengfeng/workspaces/www/githubpages/learn.ET/learnET3/ETServer/Server/Model/Server.Model.csproj
+rootSrc=/Users/zengfeng/workspaces/www/githubpages/learn.ET/ET/Unity/Assets/
+rootDest=../../Server/Model
+replace=False
+

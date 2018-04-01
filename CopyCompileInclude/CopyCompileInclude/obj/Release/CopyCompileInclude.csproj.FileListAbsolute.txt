@@ -1,0 +1,15 @@
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/Bin/CopyCompileInclude.deps.json
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/Bin/CopyCompileInclude.runtimeconfig.json
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/Bin/CopyCompileInclude.runtimeconfig.dev.json
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/Bin/CopyCompileInclude.dll
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/Bin/CopyCompileInclude.pdb
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/obj/Release/CopyCompileInclude.csproj.CoreCompileInputs.cache
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/obj/Release/CopyCompileInclude.AssemblyInfoInputs.cache
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/obj/Release/CopyCompileInclude.AssemblyInfo.cs
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/obj/Release/CopyCompileInclude.dll
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/obj/Release/CopyCompileInclude.pdb
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/bin/Release/CopyCompileInclude.deps.json
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/bin/Release/CopyCompileInclude.runtimeconfig.json
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/bin/Release/CopyCompileInclude.runtimeconfig.dev.json
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/bin/Release/CopyCompileInclude.dll
+/Users/zengfeng/workspaces/www/githubpages/ihaiu.CopyCompileInclude/CopyCompileInclude/CopyCompileInclude/bin/Release/CopyCompileInclude.pdb
